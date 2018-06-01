@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="PatternView" type="id">PatternView</item>
+    <item name="buttonView" type="id">buttonView</item>
+    <item name="buttonView1" type="id">buttonView1</item>
+    <item name="app_bar" type="id">app_bar</item>
+    <item name="logo" type="id">logo</item>
+    <item name="pluseButton" type="id">pluseButton</item>
+    <item name="drawerlist" type="id">drawerlist</item>
+    <item name="noteImage" type="id">noteImage</item>
+    <item name="titelView" type="id">titelView</item>
+    <item name="noteView" type="id">noteView</item>
+    <item name="titleEditTxt" type="id">titleEditTxt</item>
+    <item name="noteEditTxt" type="id">noteEditTxt</item>
+    <item name="saveBtn" type="id">saveBtn</item>
+    <item name="toolbar" type="id">toolbar</item>
+    <item name="fab" type="id">fab</item>
+    <item name="mRecycler" type="id">mRecycler</item>
+    <item name="setTitle" type="id">setTitle</item>
+    <item name="setContent" type="id">setContent</item>
+    <item name="updateBtn" type="id">updateBtn</item>
+    <item name="plusButton" type="id">plusButton</item>
+    <item name="recycler_view" type="id">recycler_view</item>
+    <item name="deleteBtn" type="id">deleteBtn</item>
+    <item name="search" type="id">search</item>
+    <item name="action_search" type="id">action_search</item>
+    <item name="searchElment" type="id">searchElment</item>
+    <item name="searchIt" type="id">searchIt</item>
+    <item name="password" type="id">password</item>
+    <item name="step1" type="id">step1</item>
+    <item name="step2" type="id">step2</item>
+    <item name="step3" type="id">step3</item>
+    <item name="baseLayout" type="id">baseLayout</item>
+</resources>

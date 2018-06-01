@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@id/baseLayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:focusable="true"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:clickable="true"
+    android:background="?android:attr/selectableItemBackground"
+    android:orientation="vertical">
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@id/noteImage"
+        android:padding="10dp"
+        android:src="@drawable/b7" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:id="@id/titelView"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@id/noteImage" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@id/noteView"
+        android:padding="10dp"
+        android:textSize="15sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_alignBottom="@id/noteImage"
+        android:layout_toRightOf="@id/noteImage" />
+
+</RelativeLayout>
